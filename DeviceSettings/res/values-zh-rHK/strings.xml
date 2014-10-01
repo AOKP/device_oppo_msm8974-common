@@ -15,4 +15,7 @@
   ~  See the License for the specific language governing permissions and
   ~  limitations under the License.
   -->
-<resources/>
+<resources>
+  <string name="app_name">裝置設定</string>
+  <string name="title_activity_device_settings">裝置設定</string>
+</resources>

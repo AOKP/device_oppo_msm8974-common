@@ -15,4 +15,27 @@
   ~  See the License for the specific language governing permissions and
   ~  limitations under the License.
   -->
-<resources/>
+<resources>
+  <string name="app_name">Geräte-Einstellungen</string>
+  <string name="title_activity_device_settings">Geräte-Einstellungen</string>
+  <string name="defaults_button">Zurück zur Grundeinstellung</string>
+  <string name="title_haptic">Haptik</string>
+  <string name="vibrator_title">Vibration</string>
+  <string name="vibrator_tuning_title">Vibrations-Stärke</string>
+  <string name="vibrator_tuning_summary_head">Verändere die Stärke der Vibration</string>
+  <string name="title_touchscreen">Touchscreen</string>
+  <string name="touchscreen_double_tap_gesture_title">Gerät aufwecken</string>
+  <string name="touchscreen_double_tap_gesture_summary">Gerät durch doppeltes Tippen aufwecken</string>
+  <string name="touchscreen_camera_gesture_title">Kamera</string>
+  <string name="touchscreen_camera_gesture_summary">Kreis zeichen, um die Kamera-App zu starten</string>
+  <string name="touchscreen_music_gesture_title">Musik</string>
+  <string name="touchscreen_flashlight_gesture_title">Taschenlampe</string>
+  <string name="touchscreen_flashlight_gesture_summary">\'V\' zeichen, um die Taschenlampe ein-/auszuschalten</string>
+  <string name="touchscreen_music_gesture_summary">Musikwiedergabe durch Gesten steuern \n
+    • Zwei Finger vertikal für Play/Pause\n
+    • Pfeil nach links für vorherigen Titel\n
+    • Pfeil nach rechts für nächsten Titel</string>
+  <string name="title_other">Sonstige</string>
+  <string name="fast_charge_title">Schnellladen</string>
+  <string name="fast_charge_summary">Dem Gerät erlauben sich schneller aufzuladen, wenn es über USB angeschlossen wird</string>
+</resources>
